@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|c:\\users\\asus\\desktop\\g\u00F6rsel programlama\\gamze acavut\\_20230305046\\_20230305046\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63592A4-D5F2-4136-B3A8-1C318237272E}|_20230305046\\_20230305046.csproj|solutionrelative:_20230305046\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form3.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form3.cs",
+              "RelativeToolTip": "_20230305046\\Form3.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:22:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form3.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "_20230305046\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:20:53.661Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form2.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form2.cs",
+              "RelativeToolTip": "_20230305046\\Form2.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA0wGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:26:21.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form2.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "_20230305046\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:21:48.94Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form1.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form1.cs",
+              "RelativeToolTip": "_20230305046\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:35:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form1.cs",
+              "RelativeDocumentMoniker": "_20230305046\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\g\u00F6rsel programlama\\Gamze Acavut\\_20230305046\\_20230305046\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "_20230305046\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:33:26.03Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
